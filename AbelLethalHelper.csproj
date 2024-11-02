@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>LethalHelper</PackageId>
+    <Title>Abel's Lethal Helper</Title>
+    <Authors>Abel</Authors>
+    <Product>Abel's Lethal Helper</Product>
+    <Description>Some stuff to help Lethal Company mods development</Description>
+  </PropertyGroup>
+
+</Project>
