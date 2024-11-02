@@ -3,6 +3,7 @@ using UnityEngine;
 
 namespace AbelMuak.Libs.LethalHelper
 {
+
     [Serializable]
     public struct ScrapInfo
     {
