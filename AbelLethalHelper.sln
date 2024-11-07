@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbelLethalHelper", "AbelLethalHelper.csproj", "{4020DF12-D0BC-487D-8AE9-B2D21D701B04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbelLethalHelper", "AbelLethalHelper\AbelLethalHelper.csproj", "{5F31D0C6-6669-461F-AA9B-4D72DDB02A8D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LethalHelperPlugin", "LethalHelperPlugin\LethalHelperPlugin.csproj", "{BA31EA09-B530-4EFB-ADCE-1C27E894227A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4020DF12-D0BC-487D-8AE9-B2D21D701B04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4020DF12-D0BC-487D-8AE9-B2D21D701B04}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4020DF12-D0BC-487D-8AE9-B2D21D701B04}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4020DF12-D0BC-487D-8AE9-B2D21D701B04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F31D0C6-6669-461F-AA9B-4D72DDB02A8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F31D0C6-6669-461F-AA9B-4D72DDB02A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F31D0C6-6669-461F-AA9B-4D72DDB02A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F31D0C6-6669-461F-AA9B-4D72DDB02A8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA31EA09-B530-4EFB-ADCE-1C27E894227A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA31EA09-B530-4EFB-ADCE-1C27E894227A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA31EA09-B530-4EFB-ADCE-1C27E894227A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA31EA09-B530-4EFB-ADCE-1C27E894227A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
